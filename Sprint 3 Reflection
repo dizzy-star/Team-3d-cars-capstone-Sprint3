@@ -1,0 +1,14 @@
+Timesheet. YES, it does accurately reflect effort and time. 
+Task management. YES, it does accurately reflect effort and progress. 
+Sprint reflection survey: COMPLETE. 
+
+What went well: We were able to sucessfully render buildingings, (and more importantly) roads from OpenStreetMap data to a Unity 3D environment
+
+What did not go well: Although it was not a goal, we were unable to get cars to appear in our environment, and drive around. 
+  Why: This was due to it being a secondary concern to getting roads to appear, and lack of time to dedicate to both of these. 
+
+Start - ?We cannot think of anything to begin doing that we are not already doing.
+More - With a better grasp on operating Unity's UI, we should now dedicate more time to studying the Backend code, and work out problems there. 
+Keep - Learning about Unity, studying code, and developing the 3D environment. 
+Less - With a better grasp on unity's UI, we no longer need to spend so much time learning how to effectivly operate it. 
+Stop - SUDO to Unity failed to bear results despite the time investment, so we shifted gears. 

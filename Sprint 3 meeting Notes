@@ -1,0 +1,13 @@
+3 Meetings were held over the course of this sprint. 
+They occured on March 16th, 23rd, and 30th. In Prof. Li's office, DH 321 at 10:00 am. 
+
+For the first Sprint, we pivoted our priority from a SUDO to Unity transfer to directly importing to Unity. 
+  For this, he wanted us to get familiar with Unity, it's controls and functions, and be able to generate road structures using the Unity UI. 
+  Additionally we should study what the data format of SUMO looks like and utilize knowledge of Unity to bridge the gap. 
+ 
+For the second sprint, we demonstrated success, and that Unity was rendering roads and building structures from data extracted from OpenStreetMap. 
+  For the next Goal, Li asked us to work on the roads, to fix up intersections and turns so that roads are not colliding and overlapping eachother. 
+  Additionally, he asked to begin formulating a report of our work for this project, such that it could act as a kind of tutorial for someone that wished to know how 
+  and what we did for this project. 
+  
+For the third Sprint, TBA
